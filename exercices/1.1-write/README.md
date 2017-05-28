@@ -29,7 +29,7 @@ Faire le commit initial avec un ficher hello-word.txt
 On peut aussi choisir le nom et l'email qui apparaissent dans les commit en changeant les config user.name et user.email
 
 #### Écriture de commit partiel ####
-Le fichier *top-dire-bonjour-enervante.md* contient un top 5 des manières énervant de dire bonjour au bureau. On souhaite ajouter le contenu au fichier hello-word mais en faisant plusieurs commit.
+Le fichier [top-dire-bonjour-enervante.md](https://bitbucket.org/gobinax/lacombe-formation/raw/175a455b6bab17db0f522d89750bd33429c98d13/repositories/top-dire-bonjour-enervante.md) contient un top 5 des manières énervant de dire bonjour au bureau. On souhaite ajouter le contenu au fichier hello-word mais en faisant plusieurs commit.
 > * c8da297 (HEAD -> master) top 3 -> top 5 des hello
 > * c405c14 top 3 des hello
 
