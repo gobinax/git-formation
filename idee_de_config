@@ -1,0 +1,43 @@
+[user]
+    name = <...>
+    email = <...>
+[core]
+    editor = vim
+[color]
+    ui = true
+[alias]
+    st = status
+    df = diff
+    dc = diff --cached
+    ci = commit
+    co = checkout
+    br = branch
+    rt = reset
+    rh = reset --hard
+    rb = rebase
+    ri = rebase -
+    l  = log --graph --pretty=format:'%C(red bold)%h%C(cyan)%d%Creset | %s %Cgreen(%ar) %C(yellow)<%an>%Creset'
+    la = log --graph --pretty=format:'%C(red bold)%h%C(cyan)%d%Creset | %s %Cgreen(%ar) %C(yellow)<%an>%Creset' --all
+    aliases = config --get-regexp ^alias\\.
+    brst = for-each-ref refs/heads --format='%(refname:short)%(color:red)%(upstream:track)  %(color:blue)%(upstream:short)'
+[color "branch"]
+    current = yellow reverse
+    local = yellow
+    remote = green
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+[color "status"]
+    added = green
+    changed = red
+    untracked = cyan
+[diff]
+    mnemonicprefix = true
+[push]
+    default = upstream
+[pull]
+    rebase = preserve
+[branch "master"]
+    mergeoptions = --no-ff
