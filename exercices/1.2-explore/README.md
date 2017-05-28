@@ -14,7 +14,7 @@ Les Commandes
 - *git merbe-base*
 
 ### Exercices ###
-Utiliser le dépôt - [my-vertx-first-app](https://bitbucket.org/gobinax/lacombe-formation/raw/175a455b6bab17db0f522d89750bd33429c98d13/repositories/my-vertx-first-app.zip)
+Utiliser le dépôt - [my-vertx-first-app](https://github.com/gobinax/git-formation/raw/master/repositories/my-vertx-first-app.zip)
 
 #### Visualiser un ensemble de commits ####
 1. Afficher l'historique
