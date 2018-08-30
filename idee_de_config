@@ -15,7 +15,7 @@
     rt = reset
     rh = reset --hard
     rb = rebase
-    ri = rebase -
+    ri = rebase -i
     l  = log --graph --pretty=format:'%C(red bold)%h%C(cyan)%d%Creset | %s %Cgreen(%ar) %C(yellow)<%an>%Creset'
     la = log --graph --pretty=format:'%C(red bold)%h%C(cyan)%d%Creset | %s %Cgreen(%ar) %C(yellow)<%an>%Creset' --all
     aliases = config --get-regexp ^alias\\.
