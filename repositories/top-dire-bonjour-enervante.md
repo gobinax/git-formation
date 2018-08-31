@@ -12,7 +12,7 @@ Celui qui vous salue à la manière du Commandant Sylvestre aux Guignols (depuis
 
 "Salut, tu / vas / bien..."
 ------------
-Les Inconnus dans Auteuil-Neuilly-Passy (1991). Ajoutez à ça une voix trainante à la Marc-Olivier Fogiel, et vous savez que vous êtes tombé sur un fieffé abruti.
+Les Inconnus dans Auteuil-Neuilly-Passy (1991). Ajoutez à ça [une voix trainante à la Marc-Olivier Fogiel](https://www.youtube.com/watch?v=_W3jHGgJW5A), et vous savez que vous êtes tombé sur un fieffé abruti.
 
 "Bon bon bonjour..."
 ------------
