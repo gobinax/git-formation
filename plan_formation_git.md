@@ -10,11 +10,7 @@ Début, tour de table :
 * attentes
 * où vous situez-vous (1-5) ?
   * pourquoi ?
-    1. je me sens dépassé / je sais faire le minimum
-    2. j'ai souvent besoin de me faire aider et je me sens dépassé
-    3. j'arrive à mes fins sans toujours comprendre, ni être optimal
-    4. j'ai pas besoin d'aide, j'ai encore des choses à apprendre
-    5. je vois pas ce que je pourrais apprendre de plus
+  * [Niveaux](./niveaux.md)
 * aucune questions stupides, si vous ne dites pas que vous ne savez pas, vous n'apprendrez pas, n'hésitez pas à demander tant que vous n'avez pas compris
 
 ### CI / CD
