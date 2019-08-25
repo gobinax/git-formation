@@ -176,3 +176,11 @@ pause
   * fetch
   * push
   * pull
+
+
+## Pistes d'amélioration
+
+* recréer [cette cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) étape par étape :
+    * durant toute la journée, chaque nouvelles commandes découvertes est ajoutées sur le "dessin"
+    * compléter en fin de journée, avec d'autres commandes
+* alerter sur les deux définitions de CD : Continuous Delivery VS Continuous Deployment
