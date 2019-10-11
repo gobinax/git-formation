@@ -25,7 +25,7 @@ Utiliser le dépôt my-vertx-first-app.
 #### Travail détaché ####
 Le travail effectuer sur la branche *post-3* depuis le dernier merge dans master ne nous convient pas.
 
-1. Noter le hash de la version actuelle : 60c1069
+1. Noter le hash de la version actuelle : bbc529b
 2. Noter le hash de la version de *post-3* avant le dernier merge dans master : eb2c7fcq
 3. Faire pointer la version en cours sur ce commit puis :
   - Vérifier l'historique de la version courante et de la branche *post-3*
