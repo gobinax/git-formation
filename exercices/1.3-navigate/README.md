@@ -20,7 +20,7 @@ Utiliser le dépôt my-vertx-first-app.
 1. Questions :
   - Quelle est la version en cours ?
   - Comment s'appelle la référence vers la version en cours ?
-2. Changer de version en cours : passer sur la brache post-3
+2. Changer de version en cours : passer sur la branche post-3
 
 #### Travail détaché ####
 Le travail effectuer sur la branche *post-3* depuis le dernier merge dans master ne nous convient pas.
