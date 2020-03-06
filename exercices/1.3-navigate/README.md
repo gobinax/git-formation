@@ -23,7 +23,7 @@ Utiliser le dépôt my-vertx-first-app.
 2. Changer de version en cours : passer sur la branche post-3
 
 #### Travail détaché ####
-Le travail effectuer sur la branche *post-3* depuis le dernier merge dans master ne nous convient pas.
+Le travail effectué sur la branche *post-3* depuis le dernier merge dans master ne nous convient pas.
 
 1. Noter le hash de la version actuelle : bbc529b
 2. Noter le hash de la version de *post-3* avant le dernier merge dans master : eb2c7fcq
