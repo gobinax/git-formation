@@ -11,7 +11,7 @@ Les Commandes
 - *git log*
 - *git show*
 - *git diff*
-- *git merbe-base*
+- *git merge-base*
 
 ### Exercices ###
 Utiliser le dépôt - [my-vertx-first-app](https://github.com/gobinax/git-formation/raw/master/repositories/my-vertx-first-app.zip)
