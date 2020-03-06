@@ -41,7 +41,7 @@ Utiliser le dépôt my-vertx-first-app (reprendre l'original en cas de modificat
   - supprimer la branche *remove-readme*
 2. Ré-intégrer la branche *remove-license* dans *master*
   - Changer l'origin de *remove-license*. La refaire partir de *master*
-  - faire une merge de *remove-readme* dans *master* sans fast-forward
+  - faire une merge de *remove-license* dans *master* sans fast-forward
   - supprimer la branche *remove-license*
   - comparer l'historique et les 2 méthodes de merge
 
