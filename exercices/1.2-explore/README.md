@@ -22,7 +22,7 @@ Utiliser le dépôt - [my-vertx-first-app](https://github.com/gobinax/git-format
 3. Afficher l'historique complet (pas seulement celui de la branche en courante)
 4. Afficher l'historique complet sous forme de graphe
 5. Afficher uniquement l'historique des branches *master* et *post-3*
-6. Configurer l'alias *git l* pour qu'il effctue la commande suivante :
+6. Configurer l'alias *git l* pour qu'il effectue la commande suivante :
 > git log --graph --decorate --pretty=oneline --abbrev-commit
 
 7. Utiliser la nouvelle commande *git l* pour
