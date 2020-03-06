@@ -41,7 +41,7 @@ Le travail effectuer sur la branche *post-3* depuis le dernier merge dans master
 1. Tout en restant sur la branche *post-3*, on souhaire revenir à la version précédante (celle où l'on a supprimé le fichier *LICENSE*)
   - Faire pointer la branche *post-3* sur cette version
   - Vérifier l'état de l'index. S'assurer que l'index et le working tree correspondent.
-2. Finalement on veut restaurer la fichier *LICENSE*
+2. Finalement on veut restaurer le fichier *LICENSE*
   - Faire revenir la branche *post-3* 1 commit en arrière. N'utiliser qu'une seule commande. Le working tree et l'index doivent correspondre.
 
 #### Retrouver les commits perdus ####
