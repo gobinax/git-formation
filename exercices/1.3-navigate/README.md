@@ -38,7 +38,7 @@ Le travail effectué sur la branche *post-3* depuis le dernier merge dans master
 5. Se réattacher à la branche *post-3*
 
 #### Changer la branche ####
-1. Tout en restant sur la branche *post-3*, on souhaire revenir à la version précédente (celle où l'on a supprimé le fichier *LICENSE*)
+1. Tout en restant sur la branche *post-3*, on souhaite revenir à la version précédente (celle où l'on a supprimé le fichier *LICENSE*)
   - Faire pointer la branche *post-3* sur cette version
   - Vérifier l'état de l'index. S'assurer que l'index et le working tree correspondent.
 2. Finalement on veut restaurer le fichier *LICENSE*
@@ -47,5 +47,5 @@ Le travail effectué sur la branche *post-3* depuis le dernier merge dans master
 #### Retrouver les commits perdus ####
 1. Finalement, on souhaite faire *post-3* à son état initial
   - utiliser l'audit de git : le reflog
-  - retrouver le hash de la version initial de *post-3* (on peut vérifier que c'est le commit qui nous intéresse avec un *git l post-3 <hash>)
+  - retrouver le hash de la version initial de *post-3* (on peut vérifier que c'est le commit qui nous intéresse avec un *git l post-3 <hash>*)
   - ramener la branche *post-3* à cette version
