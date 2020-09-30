@@ -28,7 +28,7 @@ Faire une copie propre du dépôt *my-vertx-first-app* et la nommer *repo-origin
   - Expliquer le résultat.
   - Expliquer la différence en entre *git checkout post-1* et *git checkout origin/post-1*
 #### Le dépôt distant ####
-4. Faire *git remote*, puis un *git remote -vv*.
+4. Faire *git remote*, puis un *git remote -v*.
   - À quoi servent ces commandes ?
 5. Faire un *git remote remove origin*
   - Expliquer ce que fait la commande.
