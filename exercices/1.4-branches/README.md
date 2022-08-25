@@ -55,7 +55,7 @@ On va comparer deux méthodes ramener pour *refacto-1* et *refacto-2* dans *mast
   - Merger à nouveau, cette fois en resolvant le conflit.
 
 2. Méthode *avec* rebase:
-  - Merger *refacto-1* dans *master*.
+  - Faire un rebase de *refacto-1* sur *master*.
   - Faire un rebase de *refacto-2* sur *master*.
   - Un conflit apparait lors du rebase : abandonner le rebase en cours.
   - Faire le rebase à nouveau, cette fois en resolvant le conflit.
