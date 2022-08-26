@@ -61,6 +61,7 @@ On va comparer deux méthodes pour ramener *refacto-1* et *refacto-2* dans *mast
     - Un conflit apparaît
     - Abandonner l'opération en cours
   - Faire le rebase à nouveau, cette fois en resolvant le conflit
+  - Merger *refacto-2* dans *master*
 
 3. Comparer les 2 méthodes
 
