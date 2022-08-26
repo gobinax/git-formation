@@ -46,14 +46,23 @@ Utiliser le dépôt my-vertx-first-app (reprendre l'original en cas de modificat
   - comparer l'historique et les 2 méthodes de merge
 
 #### Régler les conflits ####
-1. Ré-intégrer les branches *refacto-1* et *refacto-2* dans *master* 
-  - ne pas faire de rebase avant le 2ème merge
-  - un conflit apparait lors du merge : abandonner le merge en cours.
-  - merger à nouveau, cette fois en resolvant le conflit.
-2. Ré-intégrer les branches *refacto-1* et *refacto-2* dans *master*. sans faire de rebase
-  - faire un rebase avant le 2ème merge
-  - abandonner le rebase en cours
-  - refaire le rebase cette fois en resolvant le conflit
+On va comparer deux méthodes pour ramener *refacto-1* et *refacto-2* dans *master*.
+
+1. Méthode *sans* rebase:
+  - Merger *refacto-1* dans *master*
+  - Merger *refacto-2* dans *master*
+    - Un conflit apparaît
+    - Abandonner l'opération en cours
+  - Merger à nouveau, cette fois en resolvant le conflit.
+
+2. Méthode *avec* rebase:
+  - Merger *refacto-1* dans *master*
+  - Faire un rebase de *refacto-2* sur *master*
+    - Un conflit apparaît
+    - Abandonner l'opération en cours
+  - Faire le rebase à nouveau, cette fois en resolvant le conflit
+  - Merger *refacto-2* dans *master*
+
 3. Comparer les 2 méthodes
 
 #### Mettre de côté ####
@@ -61,5 +70,3 @@ Utiliser le dépôt my-vertx-first-app (reprendre l'original en cas de modificat
   - Le mettre de côté avec *git stash*.
   - Visualiser l'arbre.
   - Comparer cette technique avec une utilisation de branche temporaire
-  
-
